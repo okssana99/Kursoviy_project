@@ -1,0 +1,116 @@
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\ConfectioneryDepartmentApp.exe.config
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\ConfectioneryDepartmentApp.exe
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\ConfectioneryDepartmentApp.pdb
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\MySqlConnector.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Buffers.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Memory.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Numerics.Vectors.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\MySqlConnector.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Buffers.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Memory.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Numerics.Vectors.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.csproj.AssemblyReference.cache
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.ConfectioneryMDI.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.CategoryForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateCategoryForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Properties.Resources.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.csproj.GenerateResource.cache
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.csproj.CoreCompileInputs.cache
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\Confecti.71BD3C25.Up2Date
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.exe
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.pdb
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.exe.config
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.ProductForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateProductForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.CustomerForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateCustomerForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.OrderForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.OrderInWorkForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.OrderFinishForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.CategoryRevenueReportLastMonthForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.CustomersRankingBySpentForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.TopProductsPopularityByMonthForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.SoldProductsInfoForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.Charting.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.Charting.xml
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\de\PdfSharp.resources.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\de\PdfSharp.Charting.resources.dll
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Search.SearchProductForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Search.SearchCustomerForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.SupplierForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateSupplierForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.SupplyInvoicesForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.SupplyInvoicesInWorkForm.resources
+G:\Дипломна\StudentHELP\Розробка десктопного застосунку для менеджера\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.SupplyInvoicesFinishForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\ConfectioneryDepartmentApp.exe.config
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\ConfectioneryDepartmentApp.exe
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\ConfectioneryDepartmentApp.pdb
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\MySqlConnector.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\MySqlConnector.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.exe.config
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.ConfectioneryMDI.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.OrderFinishForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.OrderForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.OrderInWorkForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.SupplyInvoicesFinishForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.SupplyInvoicesForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Controls.SupplyInvoicesInWorkForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.CategoryForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.CustomerForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.ProductForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.SupplierForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateCategoryForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateCustomerForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateProductForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Dictionary.UpdateSupplierForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.CategoryRevenueReportLastMonthForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.CustomersRankingBySpentForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.SoldProductsInfoForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Report.TopProductsPopularityByMonthForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Search.SearchCustomerForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Forms.Search.SearchProductForm.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\Confecti.71BD3C25.Up2Date
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.exe
+C:\Users\Lenovo\Desktop\Курсовий проєкт\ConfectioneryDepartmentApp\ConfectioneryDepartmentApp\obj\Debug\ConfectioneryDepartmentApp.pdb
